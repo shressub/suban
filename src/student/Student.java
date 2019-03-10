@@ -10,6 +10,8 @@ package student;
  *
  * @author Megha,week1
  */
+
+/* hello I am practicing for midterm*/
 public class Student {
         public String name;
         public int id;
