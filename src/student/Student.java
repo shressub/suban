@@ -13,6 +13,7 @@ package student;
 public class Student {
         public String name;
         public int id;
+        public double salary;
 
     /**hello
      * @return the name
